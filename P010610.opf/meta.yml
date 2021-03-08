@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W2PD17621
   title: བོན་གྱི་ལོ་རྒྱུས་མདོར་བསྟན་གནད་ཀྱི་ཕྲེང་བ།
   author: ''
-  volumes: {}
+  volumes:
+    25ae0408ca214f70a74e3d1c852b169b:
+      image_group_id: I4PD4223
+      title: ''
+      volume_number: 1
+      total_pages: 542
